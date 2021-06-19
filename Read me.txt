@@ -1,0 +1,3 @@
+javac *.java grid/*.java solver/*.java
+
+java RmitSudoku sampleGames/easy-std-44-01.in sudoku dancing y output.xt
