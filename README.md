@@ -12,8 +12,10 @@ javac *.java grid/*.java solver/*.java
 
 ## Run
 
-java RmitSudoku input sudoku datastructure y output.txt
+java RmitSudoku input type datastructure y output.txt
 
 input = sampleGames/*******.in
+
+type = sudoku, killer
 
 datastructure = backtrack, dancing , algox
