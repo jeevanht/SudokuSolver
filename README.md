@@ -15,4 +15,5 @@ javac *.java grid/*.java solver/*.java
 java RmitSudoku input sudoku datastructure y output.txt
 
 input = sampleGames/*******.in
+
 datastructure = backtrack, dancing , algox
