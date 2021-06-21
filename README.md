@@ -4,7 +4,7 @@ In this project, I have implemented backtracking, algorithumX and dancing link d
 
 ## Programming language
 
-Java
+ core Java
 
 ## Compile
 
