@@ -18,4 +18,7 @@ input = sampleGames/*******.in
 
 type = sudoku, killer
 
-datastructure = backtrack, dancing , algox
+datastructure = backtrack, dancing , algorx
+
+
+![image](https://user-images.githubusercontent.com/62242781/122766450-e158c600-d2e4-11eb-9edb-4eca95debb17.png)
